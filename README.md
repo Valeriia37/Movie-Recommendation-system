@@ -26,15 +26,15 @@
 
 Результаты:
 
-                                    full_precision	warm_precision	cold_precision
-popular_recommender	                0.090204	      0.017540	      0.271012
-content_describtion_recommender	    0.005014	      0.007029	      0.000000
-content_soup_recommender	          0.009655	      0.013535	      0.000000
-content_genome_recommender	        0.019762	      0.027704	      0.000000
-content_genome_recommender_improved	0.033660	      0.009860	      0.092881
-content_genome_popular_recommender	0.104898	      0.038139	      0.271012
-svd_recommender	                    0.053018	      0.018223	      0.139595
-svd_genome_recommender	            0.061722	      0.030426	      0.139595
+- метрики                             full_precision	warm_precision	cold_precision
+- popular_recommender	                0.090204	      0.017540	      0.271012
+- content_describtion_recommender	    0.005014	      0.007029	      0.000000
+- content_soup_recommender	          0.009655	      0.013535	      0.000000
+- content_genome_recommender	        0.019762	      0.027704	      0.000000
+- content_genome_recommender_improved	0.033660	      0.009860	      0.092881
+- content_genome_popular_recommender	0.104898	      0.038139	      0.271012
+- svd_recommender	                    0.053018	      0.018223	      0.139595
+- svd_genome_recommender	            0.061722	      0.030426	      0.139595
 
 Все выводы и процессы работы с данными можно посмотреть в презентации https://docs.google.com/presentation/d/1fiB2APmwVjRM1eO_X2Bx8jonA_xqokrsdju0nV3052w/edit#slide=id.g2a746e971c5_0_19
 
